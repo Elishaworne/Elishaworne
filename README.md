@@ -22,7 +22,7 @@
 <!-- Badge Section -->
 <p align="center">
   <a href="https://github.com/Elishaworne">
-    <img src="https://img.shields.io/github/followers/Elishaworne?label=Follow&style=flat-square&logo=github&color=success" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/Elishaworne?label=Follow&style=flat-square&logo=github&color=2EDBBC" alt="GitHub followers">
   </a>
 </p>
 
