@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elishaworne&label=DigiInsights&color=2EDBBC&style=flat&text_color=000000" alt="Elishaworne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elishaworne&label=DigiInsights&color=2EDBBC&style=flat&text_color=000000" alt="Elishaworne"> </p>
 
 <!-- Header -->
 <p align="center">
